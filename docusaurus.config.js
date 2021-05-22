@@ -91,8 +91,6 @@ module.exports = {
       },
     ],
   ],
-  url: 'https://moldy-community.github.io/new-book', // Your website URL
+  url: 'https://moldybook.netlify.app', // Your website URL
   baseUrl: '/',
-  projectName: 'new-book',
-  organizationName: 'moldy-community',
 };
