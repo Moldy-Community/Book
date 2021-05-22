@@ -21,7 +21,7 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Documentation 🤓',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
@@ -48,7 +48,7 @@ module.exports = {
           items: [
             {
               label: 'Discord',
-              href: 'https://discord.gg/example',
+              href: 'https://discord.gg/2uwzhmJdfw',
             },
             {
               label: 'Twitter',
@@ -79,13 +79,11 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
           editUrl:
             'https://github.com/Moldy-Community/Book/edit/main/docs/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
           editUrl:
             'https://github.com/Moldy-Community/Book/edit/main/blog/',
         },
