@@ -2,8 +2,6 @@
 module.exports = {
   title: 'Moldy Community',
   tagline: 'The best project starter of the world',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -93,4 +91,8 @@ module.exports = {
       },
     ],
   ],
+  url: 'https://moldy-community.github.io/new-book', // Your website URL
+  baseUrl: '/',
+  projectName: 'new-book',
+  organizationName: 'moldy-community',
 };
