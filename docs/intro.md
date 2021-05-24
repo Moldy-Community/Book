@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+slug: /
 title: Moldy Book introduction
 author: TeoDev1611
 author_title: Moldy Founder
