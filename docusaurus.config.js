@@ -21,10 +21,10 @@ module.exports = {
           position: 'left',
           label: 'Documentation 🤓',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/blog', label: 'Blog 😃', position: 'left'},
         {
           href: 'https://github.com/Moldy-Community/',
-          label: 'GitHub',
+          label: 'GitHub 🐙',
           position: 'right',
         },
       ],
@@ -37,19 +37,19 @@ module.exports = {
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/intro',
+              to: '/docs',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Community 💬',
           items: [
             {
-              label: 'Discord',
+              label: 'Discord 🛰️',
               href: 'https://discord.gg/2uwzhmJdfw',
             },
             {
-              label: 'Twitter',
+              label: 'Twitter 🐦',
               href: 'https://twitter.com/CommunityMoldy',
             },
           ],
@@ -58,11 +58,11 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
+              label: 'Blog 😃',
               to: '/blog',
             },
             {
-              label: 'GitHub',
+              label: 'GitHub 🐙',
               href: 'https://github.com/Moldy-Community',
             },
           ],

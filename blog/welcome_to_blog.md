@@ -1,6 +1,7 @@
 ---
+sidebar_position: 1
 slug: Moldy Blog
-title: 01 Welcome to the Moldy Blog
+title: Welcome to the Moldy Blog
 author: TeoDev1611
 author_title: Moldy Founder
 author_url: https://github.com/TeoDev1611

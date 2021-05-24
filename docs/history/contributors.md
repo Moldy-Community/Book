@@ -1,8 +1,12 @@
 ---
 sidebar_position: 2
+title: 01 Contributors
+author: TeoDev1611
+author_title: Moldy Founder
+author_url: https://github.com/TeoDev1611
+author_image_url: https://avatars.githubusercontent.com/u/73144037?v=4
+tags: [Moldy, Book, docusaurus, documentation]
 ---
-
-
 # Contributors
 
 Hi this is the section of the our contributors help to moldy-community the status of the contributors and the what help.

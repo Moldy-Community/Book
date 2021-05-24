@@ -1,6 +1,7 @@
 ---
+sidebar_position: 2
 slug: Moldy Book
-title: 02 Welcome to the Moldy Book
+title: Welcome to the Moldy Book
 author: TeoDev1611
 author_title: Moldy Founder
 author_url: https://github.com/TeoDev1611

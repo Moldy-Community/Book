@@ -1,6 +1,7 @@
 ---
+sidebar_position: 3
 slug: Moldy API
-title: 03 Welcome to the Moldy API
+title: Welcome to the Moldy API
 author: TeoDev1611
 author_title: Moldy Founder
 author_url: https://github.com/TeoDev1611

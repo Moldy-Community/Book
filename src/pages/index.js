@@ -16,8 +16,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
-            Moldy Commands Doc Intro 😎
+            to="/docs">
+            Moldy Commands Doc 😎
           </Link>
         </div>
       </div>
@@ -30,7 +30,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title} Book`}
-      description="The best project starter and manager of the world<head />">
+      description="The best project starter and manager of the world <head/>">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
