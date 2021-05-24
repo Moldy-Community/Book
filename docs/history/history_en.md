@@ -11,7 +11,7 @@ tags: [Moldy, Book, docusaurus, documentation]
 
 # History
 
-Moldy was created thanks to the need to have a structure to start any project for example: You want to create a CLI in Python for that most of the CLI have their own structures but Moldy wants to standardize that and also advertise to new languages ​​with project templates and of new languages
+Moldy was created thanks to the need to have a structure to start any project for example: You want to create a CLI in Python for that most of the CLI have their own structures but Moldy wants to standardize that and also advertise to new languages with project templates and of new languages
 
 ## Why moldy?
 

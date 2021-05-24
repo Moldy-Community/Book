@@ -21,6 +21,8 @@ Hi this is the section of the our contributors help to moldy-community the statu
 
 1. **@Diamonds-Lang** special thanks to this language for the book theme **SOCIAL MEDIA** [here](https://github.com/diamonds-lang/book)
 
+6. **@Polibov** the API developer special thanks to her for made the Moldy API very nice :D **SOCIAL MEDIA** [here](https://github.com/SantiagoVA)
+
 ## How show here?
 
 To appear here you can contribute to moldy in anything :).
